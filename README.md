@@ -25,5 +25,6 @@ N'hesitez pas a jeter un oeil a mes repertoires publics. Vous y trouverez notamm
 
 ### Me contacter
 
-Vous pouvez me joindre directement via mon profil LinkedIn : [Lien vers ton LinkedIn]
-Ou par mail : rassim.boucenna@gmail.com
+Vous pouvez me joindre directement via mon profil LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-rassim--boucenna-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-slimani/)
+Ou par mail : [![Email](https://img.shields.io/badge/Email-rassim.boucenna%40gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:haniislimani@gmail.com)
+ 
