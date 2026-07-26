@@ -1,6 +1,6 @@
 # Bonjour, je suis Rassim Boucenna
 
-Portfolio : Rassim-boucenna.github.io
+Portfolio : https://Rassim-boucenna.github.io
 
 Je suis etudiant en Bachelor 3 Cybersecurite a l'ESGI pour la rentree de septembre 2026. 
 
