@@ -1,5 +1,7 @@
 # Bonjour, je suis Rassim Boucenna
 
+Portfolio : Rassim-boucenna.github.io
+
 Je suis etudiant en Bachelor 3 Cybersecurite a l'ESGI pour la rentree de septembre 2026. 
 
 Avant de m'orienter vers l'infrastructure et la securite, j'ai valide deux annees de Licence Informatique a Sorbonne Universite. Cela me donne aujourd'hui un profil hybride : j'ai de solides bases en developpement et en algorithmique, que j'applique desormais a l'administration systeme et a l'automatisation.
